@@ -1,0 +1,75 @@
+
+@font-face{
+	font-family: Oswald;
+	src:url('../fonts/Oswald-Bold.ttf');
+}
+
+.letraSena{
+	font-family: Oswald;
+}
+.googleFont700{
+	font-family: 'orbitron' seri
+}
+h1{
+	text-align: center;
+	color: #000;
+	font-size: 46px;
+	text-transform: uppercase;
+}
+.imagen{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 30px;
+}
+.texto{
+	color: #fff;
+	text-align: justify;
+	font-size: 18;
+	margin: 20px;
+}
+.capaIzquierda{
+	width: 600px;
+	position: absolute;
+	margin-left: 40px;
+	border: 30px;
+	background-color: #fda573;
+}
+.capaIzquierda:hover{
+background-color: #4EFC93
+}
+.capaDerecha{
+	width: 600px;
+	position: absolute;
+	margin-right: 40px;
+	border-radius: 30px;
+	background-color: #A956D5;
+	left: 700px;
+}
+.capaDerecha:hover{
+	background-color: #FC4E4E;
+}
+.texto2{
+	color: #fff;
+	text-align: justify;
+	font-size: 18;
+	margin: 20px;
+	margin-left: : 30px;
+}
+.imagen2{
+	width: 150px;
+	height: 150px;
+	background-position: center;
+	float: right;
+}
+.titulo{
+	border-color: #000;
+	border-radius: 30px; 
+	background-color: #C70039;
+}
+.img{
+	width: 150px;
+	height: 150px;
+	background-position: center;
+	float: right;
+}
